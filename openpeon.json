@@ -1,0 +1,41 @@
+{
+  "cesp_version": "1.0",
+  "name": "qianyu-chen-pack",
+  "display_name": "陈千语的声音包",
+  "version": "1.0.0",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/new/你好呀管理员，陪我练练剑吗.mp3", "label": "Hello!" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/work/交给我.mp3", "label": "交给我" },
+        { "file": "sounds/work/交给我吧.mp3", "label": "交给我吧" },
+        { "file": "sounds/work/交给我就对了.mp3", "label": "交给我就对了" },
+        { "file": "sounds/work/收到收到管理员你就放100个心吧.mp3", "label": "收到收到管理员你就放100个心吧" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/request-approval/快用这个.mp3", "label": "快用这个" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/error/可恶.mp3", "label": "可恶" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/complete/这次轻松.mp3", "label": "这次轻松" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/limit/歇歇.mp3", "label": "歇歇" }
+      ]
+    }
+  }
+}
