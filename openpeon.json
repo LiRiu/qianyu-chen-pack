@@ -6,35 +6,35 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/new/1.mp3", "label": "Hello!" }
+        { "file": "sounds/new/new-1.mp3", "label": "Hello!" }
       ]
     },
     "task.acknowledge": {
       "sounds": [
-        { "file": "sounds/work/1.mp3", "label": "交给我" },
-        { "file": "sounds/work/2.mp3", "label": "交给我吧" },
-        { "file": "sounds/work/3.mp3", "label": "交给我就对了" },
-        { "file": "sounds/work/4.mp3", "label": "收到收到管理员你就放100个心吧" }
+        { "file": "sounds/work/work-1.mp3", "label": "交给我" },
+        { "file": "sounds/work/work-2.mp3", "label": "交给我吧" },
+        { "file": "sounds/work/work-3.mp3", "label": "交给我就对了" },
+        { "file": "sounds/work/work-4.mp3", "label": "收到收到管理员你就放100个心吧" }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/request-approval/1.mp3", "label": "快用这个" }
+        { "file": "sounds/request-approval/request-approval-1.mp3", "label": "快用这个" }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/error/1.mp3", "label": "可恶" }
+        { "file": "sounds/error/error-1.mp3", "label": "可恶" }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/complete/1.mp3", "label": "这次轻松" }
+        { "file": "sounds/complete/complete-1.mp3", "label": "这次轻松" }
       ]
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/limit/1.mp3", "label": "歇歇" }
+        { "file": "sounds/limit/limit-1.mp3", "label": "歇歇" }
       ]
     }
   }
