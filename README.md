@@ -9,7 +9,7 @@
   <img src="./images/new.gif" width="150" height="auto" />
 </div>
 
-**智力型干员·陈千语,让你的 openclaw 更加聪明**
+**智力型干员·陈千语,让管理员的 claude 更加聪明**
 
 **See it in action** &rarr; [peonping.com](https://peonping.com/)
 
